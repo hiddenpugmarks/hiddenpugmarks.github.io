@@ -8,139 +8,139 @@ categories: [Life]
 ---
 I closed my eyes and typed every word that came out.  I guess that makes this stream-of-consciousness poetry.
 
-catch me
-I&apos;m falling
-touch me
-I&apos;m fading
-feel me
-before I disappear
-make me
-be solid again
-save me
-make me real
-I don&apos;t know
-how to change
-I want to
-I want to end these games
-so touch me
-before I fade away
-maybe you&apos;ll save me
-maybe I will fall anyway
-at least
-we will know
-the way it all works
-why the pain grows
-there has to be
-so much more
-here for us
-before the storm
-I can&apos;t
-keep on pretending
-that I don&apos;t
-love you
-like the morning
-and the rainbows
-I can&apos;t 
-pretend that
-I hate you
-that I&apos;m crying for her
-when the salty tears
-are falling from my eyes
-like raindrops
-falling form saddened skies
-and they&apos;re falling for you
-falling for us
-for all of this
-broken trust
-I just
-want to love you
-to love you
-to be loved by you
-my heart
-is open
-and beating
-and bloodfilled
-my heart
-is growing
-it&apos;s strengthening
-for the fall
-that comes with fading
-please touch me
-I need to feel you
-I need to feel me
-instead of feeling this
-I can&apos;t rest
-no matter what I do
-I can&apos;t stop the voices
-no matter what I think
-I just want
-to crawl
-right out
-of my skin
-and see what
-is there 
-beating within
-so touch me
-I&apos;m fading
-I&apos;m about to fall
-I&apos;m raining
-my soul
-my heart
-all of me
-every part
-the emotions and feelings
-the cosmic dealings
-they are ending now
-I can&apos;t seem to find
-my way out 
-of this rat trap
-of this horrible
-place I&apos;m at
-I&apos;m falling
-I&apos;m fading
-I&apos;m breaking
-no, I&apos;m broken
-I don&apos;t know where
-to go from here
-I just want to feel
-solid and real
-like a wooden boy
-that&apos;s been made to feel
-and his painted tears
-are falling for real
-so help me
-save me
-is that too much to ask
-am I really worth so little
-when you mean
-the world to me
-every single thing
-I taste your words
-with every breath
-and I feel your skin
-in the kiss of the winter wind
-as it brushes me
-like a boy, not a man
-I can only feel you
-inside of me, outside of me
-somewhere I cannot see
-let&apos;s hop into the car
-let&apos;s drive to where we are
-like we used to do
-when we loved wildly
-in our youth
-come on baby
-come to me
-I&apos;ve always been here
-and I always will be
-I can&apos;t move on
-when the best thing is behind me
-I can&apos;t be strong
-when you&apos;ve given up on me
-so touch me
-before I fade away
-feel me
-make me real
-change this clay to flesh
-change this wood to bone
-make me whole
+catch me<br/>
+I&apos;m falling<br/>
+touch me<br/>
+I&apos;m fading<br/>
+feel me<br/>
+before I disappear<br/>
+make me<br/>
+be solid again<br/>
+save me<br/>
+make me real<br/>
+I don&apos;t know<br/>
+how to change<br/>
+I want to<br/>
+I want to end these games<br/>
+so touch me<br/>
+before I fade away<br/>
+maybe you&apos;ll save me<br/>
+maybe I will fall anyway<br/>
+at least<br/>
+we will know<br/>
+the way it all works<br/>
+why the pain grows<br/>
+there has to be<br/>
+so much more<br/>
+here for us<br/>
+before the storm<br/>
+I can&apos;t<br/>
+keep on pretending<br/>
+that I don&apos;t<br/>
+love you<br/>
+like the morning<br/>
+and the rainbows<br/>
+I can&apos;t <br/>
+pretend that<br/>
+I hate you<br/>
+that I&apos;m crying for her<br/>
+when the salty tears<br/>
+are falling from my eyes<br/>
+like raindrops<br/>
+falling form saddened skies<br/>
+and they&apos;re falling for you<br/>
+falling for us<br/>
+for all of this<br/>
+broken trust<br/>
+I just<br/>
+want to love you<br/>
+to love you<br/>
+to be loved by you<br/>
+my heart<br/>
+is open<br/>
+and beating<br/>
+and bloodfilled<br/>
+my heart<br/>
+is growing<br/>
+it&apos;s strengthening<br/>
+for the fall<br/>
+that comes with fading<br/>
+please touch me<br/>
+I need to feel you<br/>
+I need to feel me<br/>
+instead of feeling this<br/>
+I can&apos;t rest<br/>
+no matter what I do<br/>
+I can&apos;t stop the voices<br/>
+no matter what I think<br/>
+I just want<br/>
+to crawl<br/>
+right out<br/>
+of my skin<br/>
+and see what<br/>
+is there <br/>
+beating within<br/>
+so touch me<br/>
+I&apos;m fading<br/>
+I&apos;m about to fall<br/>
+I&apos;m raining<br/>
+my soul<br/>
+my heart<br/>
+all of me<br/>
+every part<br/>
+the emotions and feelings<br/>
+the cosmic dealings<br/>
+they are ending now<br/>
+I can&apos;t seem to find<br/>
+my way out <br/>
+of this rat trap<br/>
+of this horrible<br/>
+place I&apos;m at<br/>
+I&apos;m falling<br/>
+I&apos;m fading<br/>
+I&apos;m breaking<br/>
+no, I&apos;m broken<br/>
+I don&apos;t know where<br/>
+to go from here<br/>
+I just want to feel<br/>
+solid and real<br/>
+like a wooden boy<br/>
+that&apos;s been made to feel<br/>
+and his painted tears<br/>
+are falling for real<br/>
+so help me<br/>
+save me<br/>
+is that too much to ask<br/>
+am I really worth so little<br/>
+when you mean<br/>
+the world to me<br/>
+every single thing<br/>
+I taste your words<br/>
+with every breath<br/>
+and I feel your skin<br/>
+in the kiss of the winter wind<br/>
+as it brushes me<br/>
+like a boy, not a man<br/>
+I can only feel you<br/>
+inside of me, outside of me<br/>
+somewhere I cannot see<br/>
+let&apos;s hop into the car<br/>
+let&apos;s drive to where we are<br/>
+like we used to do<br/>
+when we loved wildly<br/>
+in our youth<br/>
+come on baby<br/>
+come to me<br/>
+I&apos;ve always been here<br/>
+and I always will be<br/>
+I can&apos;t move on<br/>
+when the best thing is behind me<br/>
+I can&apos;t be strong<br/>
+when you&apos;ve given up on me<br/>
+so touch me<br/>
+before I fade away<br/>
+feel me<br/>
+make me real<br/>
+change this clay to flesh<br/>
+change this wood to bone<br/>
+make me whole<br/>

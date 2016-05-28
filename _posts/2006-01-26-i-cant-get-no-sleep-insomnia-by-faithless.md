@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"I can't get no sleep\" - Insomnia by Faithless
+title: I can't get no sleep - Insomnia by Faithless
 date: 2006-01-26 18:25
 author: admin
 comments: true

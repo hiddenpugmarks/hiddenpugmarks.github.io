@@ -6,7 +6,7 @@ author: admin
 comments: true
 categories: [Life, World of Warcraft]
 ---
-<a href=http://www.chorewars.com/index.php>Chore Wars</a> is just too funny as a concept.  Yet, I can completely see how it would work.
+<a href="http://www.chorewars.com/index.php">Chore Wars</a> is just too funny as a concept.  Yet, I can completely see how it would work.
 
 Essentially everyone in your household creates a character and you form a group.  Then as chores are done it logs them and assigns XP to the character that did it.  Every 200 XP you level up.
 
