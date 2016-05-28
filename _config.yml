@@ -1,64 +1,26 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title:       "Hidden Pugmarks"
-description: "the adventure continues..."
-url:         # the base hostname & protocol for your site
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+# Permalinks
+permalink:        pretty
 
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  enable_coderay: false
+# Setup
+title:            Hidden Pugmarks
+tagline:          'The Adventure Continues…'
+description:      'The Adventure Continues…'
+url:               https://hiddenpugmarks.github.io
+baseurl:          /
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Hidden Pugmarks
-  avatar:
-  job: "Antogonist"
-  bio: "Wreaker of havoc."
-  email:
-  disqus-shortname: hiddenpugmarks
-  twitter:
-  facebook:
-  google:
-    plus:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: hiddenpugmarks
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+author:
+  name:           'Hidden Pugmarks'
+  url:            https://hiddenpugmarks.github.io/
+
+gems : ['jekyll-paginate', 'jekyll-gist']
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
