@@ -1,21 +1,49 @@
-{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
 
-<div class="cover-card table-cell table-middle">
-  {% if author.avatar %}
-  <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
-  {% endif %}
-  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
-  <span class="author_job">{{ author.job }}</span>
-  <span class="author_bio mbm">{{ author.bio }}</span>
-  <nav class="nav">
-    <ul class="nav-list">
-      {% for page in site.pages %} {% if page.title %}
-      <li class="nav-item">
-        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %}
-        <span>/</span>{% endunless %}
-      </li>
-      {% endif %} {% endfor %}
-    </ul>
-  </nav>
-  {% include social-links.html %}
+    <nav class="sidebar-nav">
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <span class="sidebar-nav-item">FRIENDS &amp; FAMILY BLOGS</span>
+      <a class="sidebar-nav-item" href="http://kingbrutus.blogspot.com/">King Brutus</a>
+      <a class="sidebar-nav-item" href="http://quinneeking.blogspot.com/">Quinnee King</a>
+      <a class="sidebar-nav-item" href="http://wifezillablog.blogspot.com/">Rantings of a...</a>
+      <a class="sidebar-nav-item" href="http://mysenjam.blogspot.com/">Stuff Goes Here...</a>
+
+      <span class="sidebar-nav-item">SOFTWARE DEVELOPMENT</span>
+      <a class="sidebar-nav-item" href="http://cellperformance.beyond3d.com/articles/">Cell Performance</a>
+      <a class="sidebar-nav-item" href="http://www.codinghorror.com/blog/">Coding Horror</a>
+      <a class="sidebar-nav-item" href="http://www.dadhacker.com/blog/">Dad Hacker</a>
+      <a class="sidebar-nav-item" href="http://www.ericsink.com/">Eric.Weblog()</a>
+      <a class="sidebar-nav-item" href="http://www.joelonsoftware.com/">Joel on Software</a>
+      <a class="sidebar-nav-item" href="http://www.iunknown.com/">Jon Lam on Software</a>
+      <a class="sidebar-nav-item" href="http://realtimecollisiondetection.net/blog/">Real Time Collision Detection</a>
+      <a class="sidebar-nav-item" href="http://seven-degrees-of-freedom.blogspot.com/">Seven Degrees of Freedom</a>
+      <a class="sidebar-nav-item" href="http://assemblyrequired.crashworks.org/">Some Assembly Required</a>
+      <a class="sidebar-nav-item" href="http://steve-yegge.blogspot.com/">Stevey's Blog Rants</a>
+      <a class="sidebar-nav-item" href="http://blogs.msdn.com/oldnewthing/">The Old New Thing</a>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
 </div>
