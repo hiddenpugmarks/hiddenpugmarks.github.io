@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Hidden Pugmarks
 tagline:          'The Adventure Continues…'
 description:      'The Adventure Continues…'
-url:              https://hiddenpugmarks.github.io
-# url:              http://127.0.0.1:4000
+# url:              https://hiddenpugmarks.github.io
+url:              http://127.0.0.1:4000
 baseurl:          /
 
 author:
