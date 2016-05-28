@@ -6,13 +6,9 @@ author: admin
 comments: true
 categories: [Uncategorized]
 ---
-<table width=350 align=center border=0 cellspacing=0 cellpadding=2><tr><td bgcolor="#EEEEEE" align=center>
-<font face="Georgia, Times New Roman, Times, serif" style='color:black; font-size: 14pt;'>
-<strong>You Are a Prophet Soul</strong>
-</font></td></tr>
-<tr><td bgcolor="#DDDDDD">
-<center><img src="http://images.blogthings.com/whatkindofsoulareyouquiz/prophet-soul.jpg" height="100" width="100"/></center>
-<font color="#000000">
+
+|<strong>You Are a Prophet Soul</strong>|
+|<img src="http://images.blogthings.com/whatkindofsoulareyouquiz/prophet-soul.jpg" height="100" width="100"/>|
 You are a gentle soul, with good intentions toward everyone.<br />
 Selfless and kind, you have great faith in people.<br />
 Sometimes this faith can lead to disappoinment in the long run.<br />
@@ -24,5 +20,4 @@ A seeker of wisdom, you are a life long learner looking for purpose and meaning.
 You are a great thinker and communicator, but not necessarily a doer.<br />
 <br />
 Souls you are most compatible with: Bright Star Soul and Dreaming Soul
-</font></td></tr></table>
 <div align="center"><a href="http://www.blogthings.com/whatkindofsoulareyouquiz/">What Kind of Soul Are You?</a></div>

@@ -23,11 +23,7 @@ Again, I'm not advocating a 60 hour work week.  I am advocating the fulfillment 
 
 A lot of this reflection has been coming from the books that I've been reading lately.  I talked a little about What Would Google Do? in my last post.  More recently I have been reading <b>Outliers: The Story of Success</b> by <i>Malcolm Gladwell</i>. <br />
 
-<center>
-<table border="1" cellpadding="0" cellspacing="0"><tr><td>
-<a href="http://www.amazon.com/gp/product/0316017922?ie=UTF8&tag=hiddepugma-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0316017922"><img border="1" src="http://www.hiddenpugmarks.com/wp-content/uploads/2009/03/41bbhmtqpql_sl160_.jpg"/></a><img src="http://www.assoc-amazon.com/e/ir?t=hiddepugma-20&l=as2&o=1&a=0316017922" width="1" height="1" border="1" alt="" style="border:none !important; margin:0px !important;" />
-</td></tr></table>
-</center>
+|<a href="http://www.amazon.com/gp/product/0316017922?ie=UTF8&tag=hiddepugma-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0316017922"><img border="1" src="{{ site.url }}/assets/images/uploads/2009/03/41bbhmtqpql_sl160_.jpg"/></a><img src="http://www.assoc-amazon.com/e/ir?t=hiddepugma-20&l=as2&o=1&a=0316017922" width="1" height="1" border="1" alt="" style="border:none !important; margin:0px !important;" />|
 <br />
 
 <blockquote>

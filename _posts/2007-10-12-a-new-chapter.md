@@ -42,11 +42,11 @@ Our photographer proved to the world just how photogenic Holly is with some amaz
 
 After we got married we went to a friend's place to borrow their camera for our honeymoon.  It was hilarious.  As we started up the steps we could hear yelling and jumping from inside "Oh my god!  Holly's in her dress!"  When we got inside more pictures were taken.  It seems a lot of picture taking happens when you get married.
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding01.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding01.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding02.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding02.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/wedding01.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding01.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/wedding02.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding02.thumbnail.jpg'/></a>
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding03.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding03.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding04.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding04.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/wedding03.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding03.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/wedding04.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding04.thumbnail.jpg'/></a>
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding05.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding05.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding06.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/wedding06.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/wedding05.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding05.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/wedding06.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/wedding06.thumbnail.jpg'/></a>
 
 After that we did what can only be described as a very <i>us</i> thing to do.  We picked up a pizza, ate and zonked out on the couch for a couple of hours.  I wish I had a picture of me going in to the pizza parlour in my very snazzy Italian cut pinstripe suit.
 
@@ -67,7 +67,7 @@ Thursday - belgian apple pancacke, bacon, kiwi slices and more grapes
 
 The suites themsevles are quite large.  The bathroom is a good size with a huge surround shower that gives every normal shower an inferiority complex.  The livingroom/dining area has a wall that is mostly window, a skylight that filters down from the floor above and a fireplace.  The upstairs is a nice loft stlye bedroom with the aforementioned skylight and doors that open up onto the semi-private balcony that plays the role of home to the hot tub.  There are no clocks, no TV and no internet.
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmhideaway.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmhideaway.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmview01.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmview01.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmview02.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmview02.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/hmhideaway.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmhideaway.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/hmview01.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmview01.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/hmview02.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmview02.thumbnail.jpg'/></a>
 
 Here is a <a href="http://www.youtube.com/watch?v=MedsRvpZ91M">link</a> to a YouTube video of the hideaway.
 
@@ -89,19 +89,19 @@ Wednesday brought on another day trip.  We took a drive along Chuckanut Drive.  
 
 Our little car pulled its way up the mountain like a champ.  Switchback by switchback we approached the clouds.  The road got progressively narrower and narrower down to the point where it was just barely a one lane dirt road.  Five and a half kilometers of uphill driving later, just when I was ready to throw in the towel and say we must have taken a wrong turn, the barely one lane dirt road mushroomed into a parking lot with a beautiful view of the bay and islands below.  We even took a picture of the car up there on the top of the world, just to prove that it made it.
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/carview.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/carview.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/carview.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/carview.thumbnail.jpg'/></a>
 
 I won't bore you with the details of the rest of our culinary adventures in La Conner, but I will give a brief summary.  At Kerstin's (they don't have a website) the food and service isn't worth the money they charge.  <a href="http://www.seedsbistro.com/">Seeds</a> makes some of the best sandwhiches you might ever be lucky enough to eat.  La Conner Brewing Co. is always a safe choice, just stick with what they are known for (the wood fired pizzas) and the beer.
 
 On our last full day in La Conner we finally saw the famous wild turkeys.  The whole rafter of turkeys was just wandering down 3rd Street looking for something to do.  Apparently early in the morning they walk down the main drag of La Conner knocking on windows looking for food.  They are held sacred and protected by laws in La Conner.  Holly absolutely squealed with glee when she saw the turkeys.  Out came the camera and many pictures were taken.
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmturkeys.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmturkeys.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/hmturkeys.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmturkeys.thumbnail.jpg'/></a>
 
 Here is a <a href="http://www.youtube.com/watch?v=8vchfWM9ey8">link</a> to a YouTube video of a news spot on the turkeys.  I kid you not.
 
 Thursday morning we checked out and headed to Seattle for phase two of our honeymoon.  We got into town pretty early and headed to the famous Pike Place Market before checking in.  It was my first trip to the market and I have to say that it was pretty cool.  From the flying fish to the local artists to the specialty shops and tacky goods, it was all eye popping and entertaining.
 
-We bought our first piece of cartoon art together as Husband and Wife.  It captures the spirit of our cats Max and Leo pefectly.  We also found an awesome little kitchen shop that has everything you ever imagined and then some.  I finally found one of those halfmoon shaped pizza cutters that I have always wanted.  There was an 80 dollar one that wasn't dish washer safe, and a 10 dollar one that was.  I'll be getting the 10 dollar one.  Don't get me wrong, I can see and understand the quality of the 80 dollar cutter, but I can also see that I can replace the 10 dollar one 7 times (which is probably at least four life times) before it costs me as much as the fancy one.  
+We bought our first piece of cartoon art together as Husband and Wife.  It captures the spirit of our cats Max and Leo pefectly.  We also found an awesome little kitchen shop that has everything you ever imagined and then some.  I finally found one of those halfmoon shaped pizza cutters that I have always wanted.  There was an 80 dollar one that wasn't dish washer safe, and a 10 dollar one that was.  I'll be getting the 10 dollar one.  Don't get me wrong, I can see and understand the quality of the 80 dollar cutter, but I can also see that I can replace the 10 dollar one 7 times (which is probably at least four life times) before it costs me as much as the fancy one.
 
 The salesman was telling us that we should never put any blade in the dishwasher because it would temper the blade.  My brain jumped straight to "How bad is your pizza crust that you need an incredibly sharp blade to get through it?"  The pizza I make, you can cut through with a butter knife and a little pressure, with just one hand.  I've just been planning on extending that principle to the whole width of a pizza in a single go.
 
@@ -115,4 +115,4 @@ Following the trend of servers with cool/weird/interesting names while we visit 
 
 I hope everyone is doing great out there.  I'll try to keep the updates a little more frequent from now on.
 
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmrand01.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmrand01.thumbnail.jpg'/></a> <a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmrand02.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/10/hmrand02.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/10/hmrand01.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmrand01.thumbnail.jpg'/></a> <a href='{{ site.url }}/assets/images/uploads/2007/10/hmrand02.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/10/hmrand02.thumbnail.jpg'/></a>

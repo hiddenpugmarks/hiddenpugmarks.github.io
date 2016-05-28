@@ -6,8 +6,8 @@ author: admin
 comments: true
 categories: [Life]
 ---
-<table width="350" align="center" border="0" cellspacing="0" cellpadding="2"><tr><td bgcolor="#CDDEFF" align="center"><font face="Georgia, Times New Roman, Times, serif"><b>Your Personality Is</b></font></td></tr><tr><td bgcolor="#EBF2FF"><font color="#000000">
-<strong>Rational (NT)</strong>
+|<b>Your Personality Is</b>|
+|<strong>Rational (NT)</strong>|
 
 You are both logical and creative. You are full of ideas.
 You are so rational that you analyze everything. This drives people a little crazy!
@@ -26,4 +26,5 @@ With others, you are very honest and direct. People often can&apos;t take your c
 
 As far as your looks go, you&apos;re coasting on what you were born with. You think fashion is silly.
 
-On weekends, you spend most of your time thinking, experimenting with new ideas, or learning new things.</font></td></tr></table><div align="center"><a href="http://www.blogthings.com/threequestionpersonalitytest/">The Three Question Personality Test</a></div>
+On weekends, you spend most of your time thinking, experimenting with new ideas, or learning new things.
+<div align="center"><a href="http://www.blogthings.com/threequestionpersonalitytest/">The Three Question Personality Test</a></div>

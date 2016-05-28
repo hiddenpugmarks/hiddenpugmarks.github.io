@@ -9,7 +9,8 @@ permalink:        pretty
 title:            Hidden Pugmarks
 tagline:          'The Adventure Continues…'
 description:      'The Adventure Continues…'
-url:               https://hiddenpugmarks.github.io
+url:              https://hiddenpugmarks.github.io
+# url:              http://127.0.0.1:4000
 baseurl:          /
 
 author:
@@ -23,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:

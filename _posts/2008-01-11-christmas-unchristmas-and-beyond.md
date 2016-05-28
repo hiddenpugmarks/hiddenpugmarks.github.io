@@ -24,38 +24,13 @@ Today, the third day, we slept in.  Holly got up at 6:30 am and called the const
 
 As a side effect of this I have learned some interesting things about traffic while trying the commute at different times this week.
 
-<table border=1 cellspacing=0>
- <tr>
-  <td align=center><i>Day of Week</i></td>
-  <td align=center><i>Time Leaving Home</i></td>
-  <td align=center><i>Time Arriving at Work</i></td>
-  <td align=center><i>Total Time</i></td>
- </tr>
- <tr>
-  <td align=center>Average Previous Day</td>
-  <td align=center>8:00-8:15am</td>
-  <td align=center>9:30am</td>
-  <td align=center>75-90 minutes</td>
- </tr>
- <tr>
-  <td align=center>Wednesday</td>
-  <td align=center>7:30am</td>
-  <td align=center>8:50am</td>
-  <td align=center>80 minutes</td>
- </tr>
- <tr>
-  <td align=center>Thursday</td>
-  <td align=center>7:10am</td>
-  <td align=center>8:50am</td>
-  <td align=center>100 minutes</td>
- </tr>
- <tr>
-  <td align=center>Friday</td>
-  <td align=center>8:45am</td>
-  <td align=center>9:30am</td>
-  <td align=center>45 minutes</td>
- </tr>
-</table>
+
+|Day of Week|Time Leaving Home|Time Arriving at Work|Total Time|
+|-|-|-|-|
+|Average Previous Day|8:00-8:15am|9:30am|75-90 minutes|
+|Wednesday|7:30am|8:50am|80 minutes|
+|Thursday|7:10am|8:50am|100 minutes|
+|Friday|8:45am|9:30am|45 minutes|
 
 So what I've learned here is that the longer I procrastinate, the faster I get to work.  That's a great life lesson.
 

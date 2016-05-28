@@ -241,7 +241,10 @@ table {
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
 }
-td,
+td {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
 th {
   padding: .25rem .5rem;
   border: 1px solid #e5e5e5;

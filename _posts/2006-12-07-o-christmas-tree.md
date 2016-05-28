@@ -15,11 +15,11 @@ Her cat Max didn't quite know what to make of the tree.  When we hauled it out o
 Picutres:
 
 Tree in the dark:
-<a href="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_dark.jpg"><img src="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_dark.thumbnail.jpg"/></a>
+<a href="{{ site.url }}/assets/images/uploads/2006/12/xmastree_dark.jpg"><img src="{{ site.url }}/assets/images/uploads/2006/12/xmastree_dark.thumbnail.jpg"/></a>
 
 Tree with the lights on:
-<a href="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_light.jpg"><img src="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_light.thumbnail.jpg"/></a>
+<a href="{{ site.url }}/assets/images/uploads/2006/12/xmastree_light.jpg"><img src="{{ site.url }}/assets/images/uploads/2006/12/xmastree_light.thumbnail.jpg"/></a>
 
 Tree after you've had too much to drink:
-<a href="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_tequila.jpg"><img src="http://www.hiddenpugmarks.com/wp-content/uploads/2006/12/xmastree_tequila.thumbnail.jpg"/></a>
+<a href="{{ site.url }}/assets/images/uploads/2006/12/xmastree_tequila.jpg"><img src="{{ site.url }}/assets/images/uploads/2006/12/xmastree_tequila.thumbnail.jpg"/></a>
 

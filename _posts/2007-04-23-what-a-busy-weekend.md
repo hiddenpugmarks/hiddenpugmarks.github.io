@@ -28,4 +28,4 @@ After a little hissing and a lot of growling he seems to be coming to terms with
 
 Leo, is a kitten without fear.  He leaps and bounds and dives off of things without a care in the world.  He loves to chew on cords, this needs work.  Hopefully he will grow up to be a Spartan of a cat like his namesake before him.
 
-<img src="http://www.hiddenpugmarks.com/wp-content/uploads/2007/04/leo2thumb.jpg"/>
+<img src="{{ site.url }}/assets/images/uploads/2007/04/leo2thumb.jpg"/>
