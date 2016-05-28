@@ -25,31 +25,31 @@ After a lovely breakfast of homemade waffles we decided to start catching up on 
 Leo is a cat.  By definition that means he is strange.
 
 Just like other cats he likes to sleep,
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_02.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_02.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_02.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_02.thumbnail.jpg'/></a>
 
 he likes to play with string,
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_04.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_04.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_04.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_04.thumbnail.jpg'/></a>
 
 and he likes to hang with his brother (Max).
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_05.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_05.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_05.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_05.thumbnail.jpg'/></a>
 
 Leo also likes tenting,
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_03.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_03.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_03.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_03.thumbnail.jpg'/></a>
 
 talking on the phone,
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_06.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_06thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_06.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_06thumbnail.jpg'/></a>
 
 and helping to butter bread.
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_01.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_01.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_01.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_01.thumbnail.jpg'/></a>
 
 He also happens to like playing hide and seek,
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_07.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_07.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_07.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_07.thumbnail.jpg'/></a>
 
 and playing ball...  by the heater... where he also seems to have played with the Wii's sensor bar...
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_08.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_08.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_08.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_08.thumbnail.jpg'/></a>
 
 This is a Wii sensor bar that has met it's end on the element of a baseboard heater.  You might also argue that this is a reason not to have cats.
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_09.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_09.thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_09.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_09.thumbnail.jpg'/></a>
 
 At this point, knowing what the problem was, I called my Dad.  I figured I would have to find a way to scrape that melted sensor off the element.  Then investigating further I figured maybe I would have to replace the element.  After talking with Dad it seemed apparent that I would need to replace the heater.
 
@@ -58,4 +58,4 @@ So I learned how to remove a baseboard heater.  How to wire a baseboard heater a
 I never realized just how badly Leo wanted to be gamer.  Hopefully he doesn't toss the new sensor bar down into the heater.  So to all of those gamers in the <a href="http://www.mlgpro.com/">MLG</a> who talk about how they go through a gamepad a month while practicing, let it be known that my cat is harder on equipment than you are.  He <i>melted</i> the damn bar!
 
 In reality though, I know he just did it so he could get a new box to play in.
-<a href='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_10.jpg'><img src='http://www.hiddenpugmarks.com/wp-content/uploads/2007/12/leo_heater_10thumbnail.jpg'/></a>
+<a href='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_10.jpg'><img src='{{ site.url }}/assets/images/uploads/2007/12/leo_heater_10thumbnail.jpg'/></a>

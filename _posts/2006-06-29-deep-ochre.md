@@ -16,4 +16,4 @@ After dinner we decided that we should go do something else.  A movie was out of
 
 All I can say is that she is wonderful and amazing.  Now I have to wait all the way until Friday to see her again... or well, maybe tonight.
 
-<a href='/wp-content/crescentsunset.jpg' ><img src='/wp-content/thumb-crescentsunset.jpg' alt='' /></a>
+<a href='{{ site.url }}/assets/images/crescentsunset.jpg' ><img src='{{ site.url }}/assets/images/thumb-crescentsunset.jpg' alt='' /></a>

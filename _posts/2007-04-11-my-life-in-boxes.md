@@ -7,7 +7,7 @@ comments: true
 categories: [Life]
 ---
 
-<a href="http://www.hiddenpugmarks.com/wp-content/uploads/2007/04/boxes.jpg"><img src="http://www.hiddenpugmarks.com/wp-content/uploads/2007/04/boxes.thumbnail.jpg"/></a>
+<a href="{{ site.url }}/assets/images/uploads/2007/04/boxes.jpg"><img src="{{ site.url }}/assets/images/uploads/2007/04/boxes.thumbnail.jpg"/></a>
 
 It is truly a strange thing, at the very least for me if not for everyone else, to see my physical world packed away into boxes.  It can be quite distressing.  Half of me thinks <i>Oh my God!  Is that all I have?</i> while the other half thinks <i>Dear Lord!  Where the Hell did all of that come from?</i>
 
@@ -27,6 +27,6 @@ You can read about the details of the move in her <a href="http://bridezillablog
 
 I was thinking about perma-linking her blog in my links section, but then I was afraid she might link mine and that eventually her Mother would find all of the things I've said about her cooking >.> <.<  So those of you who like it had better book mark it!
 
-On a final note, the NHL Playoffs start tonight.  You had best get yourself to a TV and settle in with a beer soon!  There is nothing else like the NHL Stanley Cup Playoffs!  
+On a final note, the NHL Playoffs start tonight.  You had best get yourself to a TV and settle in with a beer soon!  There is nothing else like the NHL Stanley Cup Playoffs!
 
 Go Wings! Go!

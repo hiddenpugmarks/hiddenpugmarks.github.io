@@ -6,7 +6,7 @@ author: admin
 comments: true
 categories: [Life]
 ---
-Yesterday there was adventuring.  Foley and I headed out to the mountains.  We drove up through Capsilano to Grouse Mountain.  
+Yesterday there was adventuring.  Foley and I headed out to the mountains.  We drove up through Capsilano to Grouse Mountain.
 
 We stopped at the Capsilano Bridge thinking we might check it out, but $27 seemed like a bit much to walk on a suspension bridge.  So we got back into the car and headed on up to Grouse Mountain.
 
@@ -25,5 +25,5 @@ After four hours of hiking I was exhausted!  Absolutley exhausted!  I ache all o
 I have missed that healthy ache in my muscles.  I hope that it might be time to bring it back.  I guess I'll see how this week goes.  If it goes well, then next month I'll return to my old habits of working out three or more days a week.
 
 Some pictures.  Not bad for a two year old camera in a cell phone:
-<a href='/wp-content/capsialnodam1.jpg'><img src='/wp-content/capsialnodam1.jpg' width='150' height='112'/></a><a href='/wp-content/capsialnodam2.jpg'><img src='/wp-content/capsialnodam2.jpg' width='112' height='150'/></a><a href='/wp-content/capsialnodam3.jpg'><img src='/wp-content/capsialnodam3.jpg' width='112' height='76'/></a>
+<a href='{{ site.url }}/assets/images/capsialnodam1.jpg'><img src='{{ site.url }}/assets/images/capsialnodam1.jpg' width='150' height='112'/></a><a href='{{ site.url }}/assets/images/capsialnodam2.jpg'><img src='{{ site.url }}/assets/images/capsialnodam2.jpg' width='112' height='150'/></a><a href='{{ site.url }}/assets/images/capsialnodam3.jpg'><img src='{{ site.url }}/assets/images/capsialnodam3.jpg' width='112' height='76'/></a>
 

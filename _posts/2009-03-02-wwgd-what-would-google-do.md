@@ -18,12 +18,6 @@ Other than that I've been reading, okay you caught me, listening to some books o
 
 One of the books is <a href="http://www.buzzmachine.com/what-would-google-do/">What Would Google Do?</a> by <a href="http://www.buzzmachine.com/">Jeff Jarvis</a>.
 
-<div style="float: right; margin: 10px">
-<iframe align="left" src="http://rcm.amazon.com/e/cm?t=hiddepugma-20&o=1&p=8&l=as1&asins=0061709719&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-<iframe align="right" src="http://rcm.amazon.com/e/cm?t=hiddepugma-20&o=1&p=8&l=as1&asins=0061726338&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</div>
-
 I won't lie, this book started off very slowly.  After a couple of hours of introduction it started to hit on some interesting topics though.  I'll paraphrase some of the key ideas here:
 <ol>
 <li>Free is a business model.</li>

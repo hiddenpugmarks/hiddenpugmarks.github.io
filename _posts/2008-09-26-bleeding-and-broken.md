@@ -9,11 +9,10 @@ categories: [Life]
 Every once in a while I read an article that reminds me exactly why I love the game of hockey so much.
 
 <blockquote cite="http://sports.espn.go.com/espnmag/story?section=magazine&id=3604260">
-<font color=grey>
 <i>"Every leader needs a climactic story point that illustrates his character. For John McCain, it's his time in a POW camp; for Barack Obama, it's his speech at the 2004 Democratic Convention. For Ovechkin, it's a game in Pittsburgh last season when he took a skate to the leg and left the Igloo with a six-inch gash. None of the Caps would have blamed him for returning to DC to heal, but Ovechkin traveled with the team to Ottawa and played two nights later, scoring four goals and an assist in an 8-6 win. "Every time he moved, the stitches opened," says Boudreau. "And he played through it." Fans may remember the ass-over-teakettle goal he netted in a 6-1 win over Phoenix in 2006, but Caps officials cherish that cold night in Ottawa when their leader proved he could be counted on when needed most."</i><i>
 <br />
-<p align=right>~ Eric Adelson</p>
-</i></font>
+~ Eric Adelson
+</i>
 </blockquote>
 
 Hockey has leaders and characters that are easy to respect and admire.  They show a lot more courage and determination than you see in other sports.  Guys don't just play hurt in hockey, they play bleeding and broken.  Team always comes first.

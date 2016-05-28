@@ -32,20 +32,20 @@ She heard a quick intake of breath and turned around to see a look of shock on V
 
 Vilente reached out and wrapped Aven's hand with is own.  Without a look or even a single word passing between them; they started to run.
 
-Houses:
-01) Revin
-02) Trion
-03) Elem
-04) Histri
-05) Yonis
-06) Meme
-07) Brahm
-08) Garvel
-09) Cyrol
-10) Lefra
-11) Olus (Awl-us)
-12) Daymn
-13) Salva
+Houses: <br/>
+1. Revin <br/>
+2. Trion <br/>
+3. Elem <br/>
+4. Histri <br/>
+5. Yonis <br/>
+6. Meme <br/>
+7. Brahm <br/>
+8. Garvel <br/>
+9. Cyrol <br/>
+10. Lefra <br/>
+11. Olus (Awl-us) <br/>
+12. Daymn <br/>
+13. Salva <br/>
 
 
 We are The Observers.  We watch.  We document.  We get the word out.
